@@ -19,7 +19,7 @@ The dataset used in this project is 'salary.csv', which contains columns like 'A
 2. **Loading Dataset**: Load the dataset from the CSV file.
 3. **Splitting Dataset**: Split the dataset into training and test sets.
 4. **Creating Model**: Create a linear regression model.
-5. **Evaluating Model**: Evaluate the performance of the model using Mean Absolute Error (MAE) and Mean Squared Error (MSE).
+5. **Evaluating Model**: Evaluate the performance of the model using Mean Squared Error (MSE).
 6. **Predicting Salary for given age**: Provide an example using specific age input to predict the corresponding salary.
 7. **Visualizing Training Set Results**: Include scatter plots to visualize training set results and test set results respectively; both have lines indicating predicted salaries across different ages.
 
